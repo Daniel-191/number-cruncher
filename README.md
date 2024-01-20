@@ -14,7 +14,7 @@
 | ------ | :-------: |
 | Windows | ✅       |
 | Linux   | ✅       |
-| Mac     | UNKNOWN  |
+| Mac     | Untested |
 
 # Features
 
