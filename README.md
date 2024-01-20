@@ -8,8 +8,6 @@
 
 [HERE](https://github.com/DanielJones02/Active-Projects)
 
-# Supported systems
-
 # Supported Systems
 
 | System | Supported |
@@ -28,20 +26,20 @@
 For Windows, just run `compile.bat`. 
 
 For Linux or other systems, compile with: 
-```bash
-g++ main.cpp -o main
+
+`g++ main.cpp -o main`
 
 # tutorials
 
 put your numbers in numbers.txt
 
-FORMATTING
+# Formatting
 
-Example 1: Space-Separated
+### Example 1: Space-Separated
 
 23 12 5 87 34 76 99 1
 
-Example 2: New Line-Separated
+### Example 2: New Line-Separated
 
 23
 12
@@ -52,10 +50,9 @@ Example 2: New Line-Separated
 99
 1
 
-Example 3: Comma-Separated
+### Example 3: Comma-Separated
 
 23,12,5,87,34,76,99,1
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
