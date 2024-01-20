@@ -29,9 +29,9 @@ For Linux or other systems, compile with:
 
 `g++ main.cpp -o main`
 
-# tutorials
+# Tutorials
 
-put your numbers in numbers.txt
+Put your numbers to be sorted in numbers.txt. Once the program is finished it will save the sorted numbers into a new file called sorted.txt
 
 # Formatting
 
