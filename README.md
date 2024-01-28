@@ -43,13 +43,12 @@ Put your numbers to be sorted in numbers.txt. Once the program is finished it wi
 ### Example 2: New Line-Separated
 
 23
+
 12
+
 5
-87
-34
-76
-99
-1
+
+87...
 
 ### Example 3: Comma-Separated
 
