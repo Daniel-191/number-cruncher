@@ -32,7 +32,7 @@ OR
 
 2. `cd number-cruncher`
 
-3. `g++ main.cpp -o main`
+3. `g++ main.cpp -o main` OR run `compile.bat`
 
 # Tutorials
 
