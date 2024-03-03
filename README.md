@@ -24,11 +24,15 @@
 
 # Installation
 
-For Windows, just run `compile.bat`. 
+1. Download latest release and run the precompiled exe
 
-For Linux or other systems, compile with: 
+OR
 
-`g++ main.cpp -o main`
+1. `git clone https://github.com/DanielJones02/number-cruncher`
+
+2. `cd number-cruncher`
+
+3. `g++ main.cpp -o main`
 
 # Tutorials
 
