@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Daniel Jones</h1>
+<h1 align="center">Hi 👋, I'm Daniel O'Rourke</h1>
 <h3 align="center">I'm a passionate Python and C++ developer</h3>
 <h3 align="center">Welcome To my github project!👋</h3>
 
-- 👨‍💻 All of my projects are available at [My github](https://github.com/DanielJones02)
+- 👨‍💻 All of my projects are available at [My github](https://github.com/DanielOrourke02)
 
 # Get more info about me and my projects 
 
-[HERE](https://github.com/DanielJones02/Active-Projects)
+[HERE](https://github.com/DanielOrourke02/Active-Projects)
 
 # Supported Systems
 
@@ -28,7 +28,7 @@
 
 OR
 
-1. `git clone https://github.com/DanielJones02/number-cruncher`
+1. `git clone https://github.com/DanielOrourke02/number-cruncher`
 
 2. `cd number-cruncher`
 
@@ -66,10 +66,10 @@ Put your numbers to be sorted in numbers.txt. Once the program is finished it wi
 </p>
 
 <div align="center">
-  <img src="https://github.com/DanielJones02/Active-Projects/blob/main/images/Visual_Studio_Icon_2019.svg.png" width="48" height="48" alt="Visual Studio" />
-  <img src="https://github.com/DanielJones02/Active-Projects/blob/main/images/python.png" alt="Python" />
-  <img src="https://github.com/DanielJones02/Active-Projects/blob/main/images/html.png" alt="HTML" />
-  <img src="https://github.com/DanielJones02/Active-Projects/blob/main/images/css.png" alt="CSS" />
-  <img src="https://github.com/DanielJones02/Active-Projects/blob/main/images/C%2B%2B.png" alt="C++" />
-  <img src="https://github.com/DanielJones02/Active-Projects/blob/main/images/linux.png" alt="Linux" />
+  <img src="https://github.com/DanielOrourke02/Active-Projects/blob/main/images/Visual_Studio_Icon_2019.svg.png" width="48" height="48" alt="Visual Studio" />
+  <img src="https://github.com/DanielOrourke02/Active-Projects/blob/main/images/python.png" alt="Python" />
+  <img src="https://github.com/DanielOrourke02/Active-Projects/blob/main/images/html.png" alt="HTML" />
+  <img src="https://github.com/DanielOrourke02/Active-Projects/blob/main/images/css.png" alt="CSS" />
+  <img src="https://github.com/DanielOrourke02/Active-Projects/blob/main/images/C%2B%2B.png" alt="C++" />
+  <img src="https://github.com/DanielOrourke02/Active-Projects/blob/main/images/linux.png" alt="Linux" />
 </div>
