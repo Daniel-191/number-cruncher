@@ -1,13 +1,3 @@
-<h1 align="center">Hi 👋, I'm Daniel O'Rourke</h1>
-<h3 align="center">I'm a passionate Python and C++ developer</h3>
-<h3 align="center">Welcome To my github project!👋</h3>
-
-- 👨‍💻 All of my projects are available at [My github](https://github.com/DanielOrourke02)
-
-# Get more info about me and my projects 
-
-[HERE](https://github.com/DanielOrourke02/Active-Projects)
-
 # Supported Systems
 
 | System | Supported |
